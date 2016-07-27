@@ -33,9 +33,11 @@ To complete this assignment correctly, you must do all of the following:
   `favMovies.push(new Movies(...))`
 
 * After adding each movie, sort the array by title
+
   `favMovies.sort(function (a, b){return (a.title > b.title)})`
 
 * Convert and output the entire list as JSON
+
   `json = JSON.stringify(favMovies)`
 
 
