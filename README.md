@@ -30,15 +30,6 @@ To complete this assignment correctly, you must do all of the following:
 * Dynamically add 5 favorite movies to the array, one by one (rather than at creation time)
 * Make sure each movie object has a title, director list, genre, year, and actor list
 
-```function Movies(title, director, genres, year, actors){
-  this.title = title
-  this.director = director
-  this.genres = genres
-  this.year = year
-  this.actors = actors
-}
-```
-
   `favMovies.push(new Movies(...))`
 
 * After adding each movie, sort the array by title
