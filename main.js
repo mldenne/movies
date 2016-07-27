@@ -16,5 +16,5 @@ favMovies.push(new Movies ("Pulp Fiction", "Quentin Tarantino", ["Crime", "Drama
 
 favMovies.sort(function (a, b){return (a.title > b.title)})
 console.log(favMovies)
-json = JSON.stringify(favMovies)
-console.log(json)
+favMoviesJson = JSON.stringify(favMovies)
+console.log(favMoviesJson)
