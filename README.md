@@ -50,13 +50,14 @@ To complete this assignment correctly, you must do all of the following:
 
 ### Adventure Mode
 
-Output the results to HTML instead/in addition. Create a table of your movies with the information for each, for instance. Use Bootstrap for styling.
-Add a ratings property to each movie that has both IMDB's star rating and IMDB's Metascore rating
-Sort the movies by their star rating
-Make another list of the worst films ever, in your opinion, and combine them with your favorites
-Epic Mode
+* Output the results to HTML instead/in addition. Create a table of your movies with the information for each, for instance. Use Bootstrap for styling.
+* Add a ratings property to each movie that has both IMDB's star rating and IMDB's Metascore rating
+* Sort the movies by their star rating
+* Make another list of the worst films ever, in your opinion, and combine them with your favorites
 
-Grab some example JSON API movie data from http://www.omdbapi.com/ and parse it
-Experiment with getting your favorite movies pulled back via an AJAX API request
-Experiment with another API's data (see: https://github.com/toddmotto/public-apis)
-Don't forget! After completing the assignment, you must submit the assignment to receive credit.
+
+### Epic Mode
+
+* Grab some example JSON API movie data from http://www.omdbapi.com/ and parse it
+* Experiment with getting your favorite movies pulled back via an AJAX API request
+* Experiment with another API's data (see: https://github.com/toddmotto/public-apis)
